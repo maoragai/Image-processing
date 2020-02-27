@@ -1,5 +1,5 @@
-%Yann Tal 321477333
-%Maor Agai 305544546
+%Yann Tal
+%Maor Agai 
 %load the mozart picture into a x as a grayscale matrix
 x=imread('bigMozart.tiff');
 %load the mozart picture into a x as a grayscale matrix
