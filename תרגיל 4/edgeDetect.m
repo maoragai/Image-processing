@@ -1,6 +1,6 @@
 function [newImg, tgTeta] = edgeDetect(img)
-%Maor Agai 305544546
-%Yann Tal 321477333
+%Maor Agai 
+%Yann Tal 
 %this function preforms the canny edge detection algorithm, also using
 %sobel algorithm
 [m n]=size(img);
